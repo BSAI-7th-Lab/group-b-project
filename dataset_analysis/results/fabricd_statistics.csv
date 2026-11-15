@@ -1,0 +1,2 @@
+Dataset,Total Images,Train Images,Validation Images,Test Images,Defect Classes,Annotated Instances,Annotation Format,Missing Labels,Orphan Labels,Empty Label Files,Duplicate Annotations,Invalid Annotations
+FabricD,2407,1685,364,358,4,2502,YOLO Segmentation,0,0,613,0,0

@@ -1,0 +1,3 @@
+Dataset,Total Images,Train Images,Validation Images,Test Images,Defect Classes
+BDFD9,1088,775,208,105,9
+FabricD,2407,1685,364,358,4
