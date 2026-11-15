@@ -1,0 +1,4 @@
+Split,Images,Label Files,Defect Instances
+train,775,775,1017
+valid,208,208,244
+test,105,105,127
