@@ -13,7 +13,7 @@ cache: false
 device: "0"
 workers: 0
 project: C:\Users\pc\BDFD9 Bangladesh Centric Fabric Defect Dataset\extracted\YOLO_Experiments
-name: YOLOv8n_PSO_Optimized_50_Epochs
+name: YOLOv8n_PSO_Experiment_2_50_Epochs
 exist_ok: false
 pretrained: true
 cls_remap: true
@@ -71,10 +71,10 @@ dynamic: false
 simplify: true
 opset: null
 workspace: null
-lr0: 0.002020040653154157
+lr0: 0.0005596443158499851
 lrf: 0.01
-momentum: 0.8069981191553693
-weight_decay: 0.001
+momentum: 0.8602855265995631
+weight_decay: 0.0028154436412772326
 warmup_epochs: 3.0
 warmup_momentum: 0.8
 warmup_bias_lr: 0.1
@@ -112,4 +112,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: tracktrack.yaml
-save_dir: C:\Users\pc\BDFD9 Bangladesh Centric Fabric Defect Dataset\extracted\YOLO_Experiments\YOLOv8n_PSO_Optimized_50_Epochs
+save_dir: C:\Users\pc\BDFD9 Bangladesh Centric Fabric Defect Dataset\extracted\YOLO_Experiments\YOLOv8n_PSO_Experiment_2_50_Epochs
