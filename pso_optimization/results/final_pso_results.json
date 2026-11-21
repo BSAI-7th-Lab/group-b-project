@@ -1,0 +1,15 @@
+{
+    "model": "YOLOv8n",
+    "optimization": "PSO Experiment 2 (5P, 5I, 10E)",
+    "particles": 5,
+    "iterations": 5,
+    "epochs_per_evaluation": 10,
+    "fitness_metric": "Validation mAP50-95",
+    "best_fitness": 0.427372437643767,
+    "best_hyperparameters": {
+        "lr0": 0.0005596443158499851,
+        "momentum": 0.8602855265995631,
+        "weight_decay": 0.0028154436412772326
+    },
+    "total_unique_evaluations": 23
+}
