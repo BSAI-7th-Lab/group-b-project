@@ -1,0 +1,5 @@
+metric,baseline_percent,pso_optimized_percent,pso_minus_baseline_percentage_points
+Precision,83.52,80.72,-2.80
+Recall,84.43,82.35,-2.08
+mAP@50,90.09,90.35,+0.26
+mAP@50-95,51.02,49.83,-1.19
